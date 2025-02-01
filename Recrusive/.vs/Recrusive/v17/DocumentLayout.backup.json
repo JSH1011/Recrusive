@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{165F7382-DA72-4A66-AA7B-27B88DC4299E}|05 Permutation\\05 Permutation.vcxproj|C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\05 Permutation\\05 Permutation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{165F7382-DA72-4A66-AA7B-27B88DC4299E}|05 Permutation\\05 Permutation.vcxproj|solutionrelative:05 Permutation\\05 Permutation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3D11E5CA-FFF9-4851-8A50-966D09E34308}|03 Quick Sort\\03 Quick Sort.vcxproj|C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\03 Quick Sort\\08 Quick Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D11E5CA-FFF9-4851-8A50-966D09E34308}|03 Quick Sort\\03 Quick Sort.vcxproj|solutionrelative:03 Quick Sort\\08 Quick Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "05 Permutation.cpp",
-              "DocumentMoniker": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\05 Permutation\\05 Permutation.cpp",
-              "RelativeDocumentMoniker": "05 Permutation\\05 Permutation.cpp",
-              "ToolTip": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\05 Permutation\\05 Permutation.cpp*",
-              "RelativeToolTip": "05 Permutation\\05 Permutation.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Title": "08 Quick Sort.cpp",
+              "DocumentMoniker": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\03 Quick Sort\\08 Quick Sort.cpp",
+              "RelativeDocumentMoniker": "03 Quick Sort\\08 Quick Sort.cpp",
+              "ToolTip": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\03 Quick Sort\\08 Quick Sort.cpp*",
+              "RelativeToolTip": "03 Quick Sort\\08 Quick Sort.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-01T10:58:20.588Z",
+              "WhenOpened": "2025-02-01T12:24:24.117Z",
               "EditorCaption": ""
             }
           ]

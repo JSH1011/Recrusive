@@ -1,2 +1,3 @@
-﻿  01 Binary Search.cpp
-  01 Binary Search.vcxproj -> C:\Users\JO\source\repos\Recrusive\x64\Debug\01 Binary Search.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (01 Binary Search.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  07 Binary Search.cpp
+  01 Binary Search.vcxproj -> C:\Users\JO\Desktop\Recrusive\Recrusive\x64\Debug\07 Binary Search.exe
