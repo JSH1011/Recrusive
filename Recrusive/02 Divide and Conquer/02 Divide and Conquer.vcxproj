@@ -24,6 +24,7 @@
     <ProjectGuid>{b59f4e08-7377-4a8d-aa00-4426149fbb5a}</ProjectGuid>
     <RootNamespace>My02DivideandConquer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>04 Divide and Conquer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="02 Divide and Conquer.cpp" />
+    <ClCompile Include="04 Divide and Conquer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

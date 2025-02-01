@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JO\\source\\repos\\Recrusive\\",
+  "WorkspaceRootPath": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEA09ED1-3E84-49D4-9823-81A6D0EBD7E4}|00 Main\\00 Main.vcxproj|C:\\Users\\JO\\source\\repos\\Recrusive\\00 Main\\00 Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CEA09ED1-3E84-49D4-9823-81A6D0EBD7E4}|00 Main\\00 Main.vcxproj|C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\00 Main\\00 Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEA09ED1-3E84-49D4-9823-81A6D0EBD7E4}|00 Main\\00 Main.vcxproj|solutionrelative:00 Main\\00 Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "00 Main.cpp",
-              "DocumentMoniker": "C:\\Users\\JO\\source\\repos\\Recrusive\\00 Main\\00 Main.cpp",
+              "DocumentMoniker": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\00 Main\\00 Main.cpp",
               "RelativeDocumentMoniker": "00 Main\\00 Main.cpp",
-              "ToolTip": "C:\\Users\\JO\\source\\repos\\Recrusive\\00 Main\\00 Main.cpp",
+              "ToolTip": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\00 Main\\00 Main.cpp",
               "RelativeToolTip": "00 Main\\00 Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-01T08:36:09.474Z",
+              "WhenOpened": "2025-02-01T09:57:18.07Z",
               "EditorCaption": ""
             }
           ]

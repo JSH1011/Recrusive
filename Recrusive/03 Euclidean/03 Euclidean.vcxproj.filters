@@ -7,7 +7,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="03 Euclidean.cpp">
+    <ClCompile Include="02 Euclidean.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
