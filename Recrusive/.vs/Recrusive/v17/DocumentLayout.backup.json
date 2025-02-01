@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JO\\source\\repos\\Recrusive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AD4319-6C41-4873-8F82-C959AD1B4860}|09 Merge Sort\\09 Merge Sort.vcxproj|C:\\Users\\JO\\source\\repos\\Recrusive\\09 Merge Sort\\09 Merge Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1AD4319-6C41-4873-8F82-C959AD1B4860}|09 Merge Sort\\09 Merge Sort.vcxproj|solutionrelative:09 Merge Sort\\09 Merge Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72CB6C9-A3EB-42B2-BD8F-8333D657DC90}|01 Binary Search\\01 Binary Search.vcxproj|C:\\Users\\JO\\source\\repos\\Recrusive\\01 Binary Search\\01 Binary Search.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F72CB6C9-A3EB-42B2-BD8F-8333D657DC90}|01 Binary Search\\01 Binary Search.vcxproj|solutionrelative:01 Binary Search\\01 Binary Search.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D11E5CA-FFF9-4851-8A50-966D09E34308}|03 Quick Sort\\03 Quick Sort.vcxproj|C:\\Users\\JO\\source\\repos\\Recrusive\\03 Quick Sort\\03 Quick Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D11E5CA-FFF9-4851-8A50-966D09E34308}|03 Quick Sort\\03 Quick Sort.vcxproj|solutionrelative:03 Quick Sort\\03 Quick Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA09ED1-3E84-49D4-9823-81A6D0EBD7E4}|00 Main\\00 Main.vcxproj|C:\\Users\\JO\\source\\repos\\Recrusive\\00 Main\\00 Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEA09ED1-3E84-49D4-9823-81A6D0EBD7E4}|00 Main\\00 Main.vcxproj|solutionrelative:00 Main\\00 Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72146810-1561-4B6A-A075-B2F8673771F4}|07 Union_Find\\07 Union_Find.vcxproj|C:\\Users\\JO\\source\\repos\\Recrusive\\07 Union_Find\\07 Union_Find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72146810-1561-4B6A-A075-B2F8673771F4}|07 Union_Find\\07 Union_Find.vcxproj|solutionrelative:07 Union_Find\\07 Union_Find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F4E08-7377-4A8D-AA00-4426149FBB5A}|02 Divide and Conquer\\02 Divide and Conquer.vcxproj|C:\\Users\\JO\\source\\repos\\Recrusive\\02 Divide and Conquer\\02 Divide and Conquer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B59F4E08-7377-4A8D-AA00-4426149FBB5A}|02 Divide and Conquer\\02 Divide and Conquer.vcxproj|solutionrelative:02 Divide and Conquer\\02 Divide and Conquer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "09 Merge Sort.cpp",
+              "DocumentMoniker": "C:\\Users\\JO\\source\\repos\\Recrusive\\09 Merge Sort\\09 Merge Sort.cpp",
+              "RelativeDocumentMoniker": "09 Merge Sort\\09 Merge Sort.cpp",
+              "ToolTip": "C:\\Users\\JO\\source\\repos\\Recrusive\\09 Merge Sort\\09 Merge Sort.cpp",
+              "RelativeToolTip": "09 Merge Sort\\09 Merge Sort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T08:20:51.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03 Quick Sort.cpp",
+              "DocumentMoniker": "C:\\Users\\JO\\source\\repos\\Recrusive\\03 Quick Sort\\03 Quick Sort.cpp",
+              "RelativeDocumentMoniker": "03 Quick Sort\\03 Quick Sort.cpp",
+              "ToolTip": "C:\\Users\\JO\\source\\repos\\Recrusive\\03 Quick Sort\\03 Quick Sort.cpp",
+              "RelativeToolTip": "03 Quick Sort\\03 Quick Sort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T08:20:35.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "00 Main.cpp",
+              "DocumentMoniker": "C:\\Users\\JO\\source\\repos\\Recrusive\\00 Main\\00 Main.cpp",
+              "RelativeDocumentMoniker": "00 Main\\00 Main.cpp",
+              "ToolTip": "C:\\Users\\JO\\source\\repos\\Recrusive\\00 Main\\00 Main.cpp",
+              "RelativeToolTip": "00 Main\\00 Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T08:20:20.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01 Binary Search.cpp",
+              "DocumentMoniker": "C:\\Users\\JO\\source\\repos\\Recrusive\\01 Binary Search\\01 Binary Search.cpp",
+              "RelativeDocumentMoniker": "01 Binary Search\\01 Binary Search.cpp",
+              "ToolTip": "C:\\Users\\JO\\source\\repos\\Recrusive\\01 Binary Search\\01 Binary Search.cpp",
+              "RelativeToolTip": "01 Binary Search\\01 Binary Search.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T08:19:43.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "02 Divide and Conquer.cpp",
+              "DocumentMoniker": "C:\\Users\\JO\\source\\repos\\Recrusive\\02 Divide and Conquer\\02 Divide and Conquer.cpp",
+              "RelativeDocumentMoniker": "02 Divide and Conquer\\02 Divide and Conquer.cpp",
+              "ToolTip": "C:\\Users\\JO\\source\\repos\\Recrusive\\02 Divide and Conquer\\02 Divide and Conquer.cpp",
+              "RelativeToolTip": "02 Divide and Conquer\\02 Divide and Conquer.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T08:19:35.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "07 Union_Find.cpp",
+              "DocumentMoniker": "C:\\Users\\JO\\source\\repos\\Recrusive\\07 Union_Find\\07 Union_Find.cpp",
+              "RelativeDocumentMoniker": "07 Union_Find\\07 Union_Find.cpp",
+              "ToolTip": "C:\\Users\\JO\\source\\repos\\Recrusive\\07 Union_Find\\07 Union_Find.cpp",
+              "RelativeToolTip": "07 Union_Find\\07 Union_Find.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T08:15:57.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
