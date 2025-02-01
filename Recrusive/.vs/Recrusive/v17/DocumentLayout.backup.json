@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B59F4E08-7377-4A8D-AA00-4426149FBB5A}|02 Divide and Conquer\\02 Divide and Conquer.vcxproj|C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\02 Divide and Conquer\\04 Divide and Conquer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B59F4E08-7377-4A8D-AA00-4426149FBB5A}|02 Divide and Conquer\\02 Divide and Conquer.vcxproj|solutionrelative:02 Divide and Conquer\\04 Divide and Conquer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEA09ED1-3E84-49D4-9823-81A6D0EBD7E4}|00 Main\\00 Main.vcxproj|C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\00 Main\\00 Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEA09ED1-3E84-49D4-9823-81A6D0EBD7E4}|00 Main\\00 Main.vcxproj|solutionrelative:00 Main\\00 Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5446E81A-8CBB-485E-BDF1-51D9CB353E55}|04 Fibonacci\\04 Fibonacci.vcxproj|C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\04 Fibonacci\\03 Fibonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5446E81A-8CBB-485E-BDF1-51D9CB353E55}|04 Fibonacci\\04 Fibonacci.vcxproj|solutionrelative:04 Fibonacci\\03 Fibonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{165F7382-DA72-4A66-AA7B-27B88DC4299E}|05 Permutation\\05 Permutation.vcxproj|C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\05 Permutation\\05 Permutation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{165F7382-DA72-4A66-AA7B-27B88DC4299E}|05 Permutation\\05 Permutation.vcxproj|solutionrelative:05 Permutation\\05 Permutation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 188,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "00 Main.cpp",
-              "DocumentMoniker": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\00 Main\\00 Main.cpp",
-              "RelativeDocumentMoniker": "00 Main\\00 Main.cpp",
-              "ToolTip": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\00 Main\\00 Main.cpp",
-              "RelativeToolTip": "00 Main\\00 Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-01T09:57:18.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "04 Divide and Conquer.cpp",
-              "DocumentMoniker": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\02 Divide and Conquer\\04 Divide and Conquer.cpp",
-              "RelativeDocumentMoniker": "02 Divide and Conquer\\04 Divide and Conquer.cpp",
-              "ToolTip": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\02 Divide and Conquer\\04 Divide and Conquer.cpp",
-              "RelativeToolTip": "02 Divide and Conquer\\04 Divide and Conquer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "05 Permutation.cpp",
+              "DocumentMoniker": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\05 Permutation\\05 Permutation.cpp",
+              "RelativeDocumentMoniker": "05 Permutation\\05 Permutation.cpp",
+              "ToolTip": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\05 Permutation\\05 Permutation.cpp*",
+              "RelativeToolTip": "05 Permutation\\05 Permutation.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-01T09:57:14.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "03 Fibonacci.cpp",
-              "DocumentMoniker": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\04 Fibonacci\\03 Fibonacci.cpp",
-              "RelativeDocumentMoniker": "04 Fibonacci\\03 Fibonacci.cpp",
-              "ToolTip": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\04 Fibonacci\\03 Fibonacci.cpp",
-              "RelativeToolTip": "04 Fibonacci\\03 Fibonacci.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-01T09:19:45.19Z",
+              "WhenOpened": "2025-02-01T10:58:20.588Z",
               "EditorCaption": ""
             }
           ]

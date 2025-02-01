@@ -1,10 +1,12 @@
 #include <iostream>
-using namespace std;
 
+using namespace std;
 #define SIZE 3
 
 void Permutation(int n, int list[], int depth)
 {
+
+
 
 
 
@@ -29,11 +31,15 @@ int main()
 
 
 // 힌트
-// depth가 제일 밑에 내려갔을 경우에는 모든 값 출력
-// 그 외에는 swap을 활용하여 재귀 호출
 // depth 0 : 00 01 02 바꾸기
 // depth 1 : 11 12 바꾸기
 // depth 2 : 출력
+// 
+// depth가 제일 밑에 도달하면 모든 값 출력
+// 그 외에는 swap을 활용하여 값 변경
+// 재귀 호출
+// 다음 반복이 돌기 전에 다시 swap으로 원상 복귀.
+// 
 // 다 해보고 문자가 더 많을 때도 잘 동작하는지 확인.
 
 

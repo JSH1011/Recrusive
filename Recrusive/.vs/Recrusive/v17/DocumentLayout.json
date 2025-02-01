@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEA09ED1-3E84-49D4-9823-81A6D0EBD7E4}|00 Main\\00 Main.vcxproj|C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\00 Main\\00 Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEA09ED1-3E84-49D4-9823-81A6D0EBD7E4}|00 Main\\00 Main.vcxproj|solutionrelative:00 Main\\00 Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{10C70E71-7586-4049-8CC8-683B88523AE3}|06 DFS\\06 DFS.vcxproj|C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\06 DFS\\06 DFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10C70E71-7586-4049-8CC8-683B88523AE3}|06 DFS\\06 DFS.vcxproj|solutionrelative:06 DFS\\06 DFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165F7382-DA72-4A66-AA7B-27B88DC4299E}|05 Permutation\\05 Permutation.vcxproj|C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\05 Permutation\\05 Permutation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{165F7382-DA72-4A66-AA7B-27B88DC4299E}|05 Permutation\\05 Permutation.vcxproj|solutionrelative:05 Permutation\\05 Permutation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "00 Main.cpp",
-              "DocumentMoniker": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\00 Main\\00 Main.cpp",
-              "RelativeDocumentMoniker": "00 Main\\00 Main.cpp",
-              "ToolTip": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\00 Main\\00 Main.cpp",
-              "RelativeToolTip": "00 Main\\00 Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Title": "06 DFS.cpp",
+              "DocumentMoniker": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\06 DFS\\06 DFS.cpp",
+              "RelativeDocumentMoniker": "06 DFS\\06 DFS.cpp",
+              "ToolTip": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\06 DFS\\06 DFS.cpp",
+              "RelativeToolTip": "06 DFS\\06 DFS.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-01T09:57:18.07Z",
+              "WhenOpened": "2025-02-01T11:18:36.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05 Permutation.cpp",
+              "DocumentMoniker": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\05 Permutation\\05 Permutation.cpp",
+              "RelativeDocumentMoniker": "05 Permutation\\05 Permutation.cpp",
+              "ToolTip": "C:\\Users\\JO\\Desktop\\Recrusive\\Recrusive\\05 Permutation\\05 Permutation.cpp",
+              "RelativeToolTip": "05 Permutation\\05 Permutation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T10:58:20.588Z",
               "EditorCaption": ""
             }
           ]
